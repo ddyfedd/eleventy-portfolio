@@ -1,0 +1,49 @@
+---
+title: "OpenWeatherMap API Practice"
+date: 2021-02-08T13:35:21+01:00
+draft: false
+image: /images/cover4.jpg
+imageAlt: "Open WeatherMap API practice"
+tech:
+  - "Postman"
+  - "Swagger"
+  - "Redocly"
+siteUrl: "#"
+repoUrl: "#"
+tags: 
+  - "projects"
+---
+
+# Practicing API documentation
+
+After being rejected at some of my interviews for Technical Writing positions, I realized that my skill-set lack a strong basic understanding of API documentation and testing, in general.
+
+This was the time when I got a bit more into online courses about different development languages, but after I encountered this same problem several times, it was time to initiate some changes. That is how I found the most helpful resource for Technical Writers wanting to broaden their skill-set: [I'd Rather Be Writing](https://idratherbewriting.com/).
+
+[Here](../freecodecamp-portfolio/), you can see the results of me taking the _APIs and Microservices_ course by [freeCodeCamp.org](https://www.freecodecamp.org/)
+
+## Main topics
+
+The site's purpose is to offer a quick introduction into the concepts, methods and tools involved in API development and documentation. As the number of API-based services are ever-more growing, there is a similarly growing demand for writers that can keep up with the pace of development, while maintaining a concise, high-quality documentation in cooperation with other teams. Also, not even mentioning the importance of including writers in the complete process of development from the start, as there are great opportunities to miss or catch, depending on the perspectives included.
+
+The implications of Writers' involvement in such development processes and integrating tools that help to establish a more inclusive development environment can go a long way, in terms of resource planning/management, cost-effectiveness, or even user experience. There is a lot at stake, but that's why figuring out winning situations as a collective has enormous benefits.
+
+And to emphasise this phenomena, the [man](https://github.com/tomjoht) behind [I'd Rather Be Writing](https://idratherbewriting.com/) came up with his site, presenting several tools for developing, testing and documenting APIs. Furthermore, he gave numerous lectures at conferences, besides writing blog posts and articles about Technical Writing.
+
+Some of the tools included in the tutorials:
+
+- [Postman](https://www.postman.com/)
+- [Stoplight](https://stoplight.io/)
+- [Swagger](https://swagger.io/)
+- [Redoc.ly](https://redoc.ly/)
+
+These and many more topics are examined, and there is a lot of stuff to practice as well. The main example is documenting an endpoint of the [OpenWeatherMap API](https://openweathermap.org/api), namely the `weather` endpoint.
+
+## My example
+
+I completed the same task with the different tools, and here is one of my OpenAPI specification created for the `weather` endpoint, hosted on [Stoplight](https://stoplight.io/):
+
+- [OpenWeatherMap API practice](https://dzs-inf-dev.stoplight.io/docs/stoplight-api-tutorial/reference/openweathermap.v1.yaml)
+
+This same documentation was also created with Swagger, using YAML, just to practice JSON generation.
+And the list could go on endlessly, how much useful knowledge can be learned from this site alone.
