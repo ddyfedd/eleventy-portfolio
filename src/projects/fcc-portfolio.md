@@ -1,7 +1,8 @@
 ---
-title: "FreeCodeCamp Portfolio"
+title: "freeCodeCamp Portfolio"
 date: 2021-02-07T19:34:04+01:00
-draft: false
+summary: |-
+  This page contains a list of all the challenges I completed on freeCodeCamp.
 image: /images/cover2.jpg
 imageAlt: "FreeCodeCamp portfolio"
 tech:

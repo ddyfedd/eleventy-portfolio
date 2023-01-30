@@ -87,6 +87,7 @@ a {
   flex-wrap: wrap;
   margin-bottom: 4rem;
   padding: 1rem 1.5rem;
+  background-image: linear-gradient(to bottom right, #9EB185, #dff2d8);
 }
 
 .header__title {
